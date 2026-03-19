@@ -38,7 +38,7 @@ function Footer() {
             <ul>
               <li>
                 <a
-                  href="https://www.facebook.com/livpabryggekanten"
+                  href="https://www.facebook.com/p/LIV-p%C3%A5-bryggekanten-61558353291165/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -47,7 +47,7 @@ function Footer() {
               </li>
               <li>
                 <a
-                  href="https://www.instagram.com/livpabryggekanten"
+                  href="https://www.instagram.com/livpaabryggekanten/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

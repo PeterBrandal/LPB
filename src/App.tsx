@@ -4,6 +4,7 @@ import About from './component/About';
 import Hours from './component/Hours';
 import MenuSection from './component/MenuSection';
 import QuizSection from './component/QuizSection';
+import MapSection from './component/MapSection';
 import Footer from './component/Footer';
 import './index.css';
 
@@ -17,6 +18,7 @@ function App() {
         <Hours />
         <MenuSection />
         <QuizSection />
+        <MapSection />
       </main>
       <Footer />
     </>

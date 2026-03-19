@@ -23,7 +23,7 @@ function QuizSection() {
           </p>
           <div className="quiz-badge">
             <strong>Hver lørdag</strong>
-            <span>Starter kl. 19:00 · Åpen for alle · Gratis deltakelse</span>
+            <span>Starter kl. 15:00 · Åpen for alle · Gratis deltakelse</span>
           </div>
         </div>
 

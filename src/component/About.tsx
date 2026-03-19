@@ -1,10 +1,15 @@
 import kilen3 from '../res/kilen3.jpg';
 import kilen4 from '../res/kilen4.jpg';
+import livLogo from '../res/livPng.png';
 
 function About() {
   return (
     <section id="om-oss" className="about">
       <div className="section-container">
+
+        <div className="about-brand-stamp">
+          <img src={livLogo} alt="LIV på Bryggekanten" className="about-logo" />
+        </div>
 
         <div className="about-grid">
           <div className="about-text">
