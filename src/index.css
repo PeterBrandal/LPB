@@ -422,6 +422,15 @@ a {
   50%       { opacity: 0.9;  transform: scaleY(1); }
 }
 
+/* iOS Safari ignores background-attachment: fixed and zooms/crops the image */
+@media (max-width: 768px) {
+  .hero {
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center center;
+  }
+}
+
 /* ===========================================
    Shared section utilities
    =========================================== */

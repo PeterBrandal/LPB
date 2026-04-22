@@ -4,7 +4,7 @@ function MapSection() {
       <div className="map-overlay">
         <div className="map-info">
           <span className="section-label">Finn oss</span>
-          <h2 className="map-info-title">Sandøya, Bamble</h2>
+          <h2 className="map-info-title">Sandøya, Tvedestrand</h2>
           <p className="map-info-text">Vi ligger ved Sandøykilen – kom med bil, sykkel eller båt. Gjesteplasser ved brygga.</p>
           <a
             href="https://maps.google.com/?q=Liv+på+bryggekanten,+Sandøya"
